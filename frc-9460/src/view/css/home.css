@@ -34,24 +34,3 @@ body {
 .destaque{
     font-weight: bold;
 }
-
-p{
-    display: flex;
-    justify-content: center;
-}
-
-.organizacao1{
-    display: flex;
-    justify-content: space-evenly;
-}
-
-.organizacao2{
-    display: flex;
-    justify-content: space-evenly;
-}
-
-.organizacao3{
-    display: flex;
-    justify-content: space-evenly;
-}
-
